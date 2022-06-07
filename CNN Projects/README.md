@@ -1,5 +1,7 @@
 **CNN Projects:**
 
+**Image Classification Projects**
+
 **1. Rice Image Dataset:**
 
    a. Simple CNN Model 
