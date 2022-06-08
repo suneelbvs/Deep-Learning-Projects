@@ -10,6 +10,8 @@
    
    b. CNN Classification model using MobileNet	
    
+   c. vgg16-vs-mobilenetv2-who-wins
+   
 **2. Cats & Dogs Dataset:**
 
 
