@@ -2,6 +2,8 @@
 
 **Image Classification Projects**
 
+**Tensorflow Version**
+
 **1. Rice Image Dataset:**
 
    a. Simple CNN Model 
