@@ -31,5 +31,7 @@
 
 **1. MNIST Dataset:**
 
+  a. Simple CNN Model
+
 
 ## Updation in Progress!, Stay Tuned!
