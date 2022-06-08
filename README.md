@@ -5,7 +5,7 @@
 
 ***CNN Projects:***
 
-**Image Classification Projects**
+**Image Classification Tasks**
 
 **1. Rice Image Dataset:**
 
