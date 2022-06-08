@@ -2,8 +2,6 @@
 
 **Image Classification Projects**
 
-**Tensorflow Version**
-
 **1. Rice Image Dataset:**
 
    a. Simple CNN Model 
@@ -15,4 +13,15 @@
 **2. Cats & Dogs Dataset:**
 
 
-  **3. CNN @ NLP**
+
+
+
+**4. Cancer Datasets**
+
+
+
+
+
+**Computer Vision Tasks**
+
+**1. MNIST Dataset:**
